@@ -1,16 +1,27 @@
-## Hi there 👋
+### Hi there!
 
-<!--
-**pkrusche/pkrusche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I lead AI & data engineering in drug development by day. This is my
+personal account — personal projects, open-source history, and
+experiments.
 
-Here are some ideas to get you started:
+**Currently exploring agentic coding infrastructure:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [project-sandbox](https://github.com/pkrusche/project-sandbox) —
+  running coding agents in isolated containers and microVMs, with
+  supervised or headless sessions, LLM-gateway credential isolation,
+  and git-worktree / [Jujutsu](https://github.com/jj-vcs/jj) workspace
+  integration
+- [agentgateway-locally](https://github.com/pkrusche/agentgateway-locally) —
+  keeping credentials out of the agent container, and using locally
+  hosted models
+- [jj-parallel-agents-skill](https://github.com/pkrusche/jj-parallel-agents-skill) —
+  parallel agents on jj repos, plus an experiment in testing agent
+  skills with evals
+- [repljail](https://github.com/pkrusche/repljail) — an MCP tool for
+  network-isolated R sessions
+
+**Previously:** genomics methods and benchmarking at Illumina —
+[hap.py](https://github.com/Illumina/hap.py) and
+[Paragraph](https://github.com/Illumina/paragraph).
+
+More on my [blog](https://pkrusche.netlify.app/)
