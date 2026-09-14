@@ -14,6 +14,8 @@ experiments.
 - [agentgateway-locally](https://github.com/pkrusche/agentgateway-locally) —
   keeping credentials out of the agent container, and using locally
   hosted models
+- [internetproxy-locally](https://github.com/pkrusche/internet-proxy-locally) -
+  safer proxied internet access for coding sandboxes.
 - [jj-parallel-agents-skill](https://github.com/pkrusche/jj-parallel-agents-skill) —
   parallel agents on jj repos, plus an experiment in testing agent
   skills with evals
