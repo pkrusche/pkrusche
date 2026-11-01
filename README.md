@@ -11,6 +11,9 @@ experiments.
   supervised or headless sessions, LLM-gateway credential isolation,
   and git-worktree / [Jujutsu](https://github.com/jj-vcs/jj) workspace
   integration
+- [project-sandbox-tui](https://github.com/pkrusche/project-sandbox-tui) —
+  a simple text-based agent orchestrator. Run prompts in parallel, check the
+  results, review the diffs.
 - [agentgateway-locally](https://github.com/pkrusche/agentgateway-locally) —
   keeping credentials out of the agent container, and using locally
   hosted models
